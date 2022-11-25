@@ -1,0 +1,17 @@
+﻿  Assets.cpp
+  Entity.cpp
+  File.cpp
+  Game.cpp
+  GameOverScene.cpp
+  GameScene.cpp
+  main.cpp
+  MainMenuScene.cpp
+  Scene.cpp
+  Score.cpp
+  Ui.cpp
+  Utility.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 608 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ceaseless MKIII.vcxproj -> C:\Users\family\Desktop\Not Games\Programming\Projects\C++ Projects\MyProjects\RaylibProjects\Ceaseless MKIII\x64\Release\Ceaseless MKIII.exe
